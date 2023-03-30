@@ -1,0 +1,22 @@
+*{  /*(*) mean whole page same as body*/
+    background-color: cornflowerblue;
+    font-family: 'Playfair Display', serif;
+    color: black;
+} 
+h1{
+    margin: 40px;
+}
+#user-input{
+    width: 350px;
+    height: 40px;
+    display: inline-block;
+}
+.btn{ 
+    margin: 20px 4px;
+}
+.form-control{
+    margin: 0 auto;
+}
+ul{
+    list-style-type: none;
+}
